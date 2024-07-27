@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMDB_Assignment</string>
+
+    <string name="no_record">No results found!!\nPlease try with a different keyword</string>
+    <string name="initial_message">Type a movie name in the searchbox\nto search any movie</string>
+    <string name="error_message">An error occurred!! Please check your internet connection and try again.</string>
+</resources>
